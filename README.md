@@ -1,6 +1,6 @@
 Matrix AI masternode install script
 
-wget https://github.com/Hostile/MatrixMasternode/blob/master/Matrix.sh 
+wget https://raw.githubusercontent.com/Hostile/MatrixMasternode/master/Matrix.sh
 
 chmod +x Matrix.sh
 
