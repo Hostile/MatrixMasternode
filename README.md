@@ -6,8 +6,9 @@ chmod +x Matrix.sh
 
 ./Matrix.sh
 
-You should now have a /keystore directory in your GO-MATRIX/chaindata directory
-copy your UTC--wallet file into the keystore folder.
+You should now have a keystore/ directory in your GO-MATRIX/chaindata directory
+
+Copy your UTC--wallet file into the keystore/ folder.
 
 
 Go back to your GO-MATRIX directory and create your signAccount.json file using the text editor of your choice. 
