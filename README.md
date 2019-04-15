@@ -30,6 +30,10 @@ Create password:
 
 ./gman --datadir chaindata aes --aesin signAccount.json --aesout entrust.json
 
+At point DELETE signAccount.json for security reasons!, no more needed.
+
+rm -rf signAccount.json 
+
 Run:
 
 ./gman --datadir chaindata --networkid 1 --debug --verbosity 1 --manAddress MAN.youraddress --entrust entrust.json --gcmode archive --outputinfo 1 --syncmode full
