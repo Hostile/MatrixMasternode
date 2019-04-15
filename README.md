@@ -30,7 +30,7 @@ Create password:
 
 ./gman --datadir chaindata aes --aesin signAccount.json --aesout entrust.json
 
-At point DELETE signAccount.json for security reasons!, no more needed.
+At this point DELETE signAccount.json for security reasons!, no more needed.
 
 rm -rf signAccount.json 
 
